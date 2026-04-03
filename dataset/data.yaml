@@ -1,3 +1,4 @@
+path: 'c:/Users/tarsi/github.com/tarsislimadev/chicken-detection'
 train: dataset/images/train
 val: dataset/images/val
 
